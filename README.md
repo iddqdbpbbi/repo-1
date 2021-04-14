@@ -1,3 +1,3 @@
 # repo-1
-repository to lerning git
+repository for lerning git
 Testing commit 
